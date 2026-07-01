@@ -104,9 +104,6 @@ Based on the analysis, the following improvements are recommended:
 
 ## Repository Structure
 
-
-## Repository Structure
-
 ```text
 README.md
 Onboarding_Funnel_Analysis.sql
@@ -134,7 +131,9 @@ time_taken.png
 * Data-Driven Decision Making
 
 
-**Mukta Deshmukh**
+## Author
+
+Mukta Deshmukh
 
 Data Analytics | Product Analytics | Business Intelligence
 
