@@ -106,19 +106,17 @@ Based on the analysis, the following improvements are recommended:
 
 ## Repository Structure
 
+
+## Repository Structure
+
 ```text
-├── README.md
-├── SQL/
-│   ├── funnel_analysis.sql
-├── Tableau/
-│   └── Onboarding_Funnel_Analysis.twbx
-├── Visuals/
-│   ├── dashboard.png
-│   ├── funnel_analysis.png
-│   └── time_analysis.png
-├── Presentation/
-│   └── Analysis_Presentation.pdf
-└── Data/
+README.md
+Onboarding_Funnel_Analysis.sql
+Onboarding_Funnel_Analysis.twbx
+Onboarding_Funnel_Analysis_Presentation.pdf
+dashboard.png
+dropoff_funnel.png
+time_taken.png
 ```
 
 ---
