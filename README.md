@@ -8,7 +8,19 @@ Product analytics case study analyzing an Earned Wage Access onboarding funnel u
 User onboarding is one of the most critical stages of the customer journey, directly influencing product adoption and long-term engagement. This project analyzes the embedded onboarding and application flow for an Earned Wage Access (EWA) product, where hourly workers can access wages they have already earned through their payroll or time-tracking platform. Using SQL and Tableau, the analysis identifies user drop-off, measures conversion and time taken between onboarding stages, and provides actionable recommendations to improve user activation and advance completion. The findings help product teams prioritize feature development by focusing on the highest-friction stages of the onboarding journey.
 
 ---
+## Dashboard
 
+![Dashboard](dashboard.png)
+
+## Funnel Analysis
+
+![Drop-off Funnel](dropoff_funnel.png)
+
+## Time Analysis
+
+![Time Analysis](time_taken.png)
+
+---
 ## Business Problem
 
 The objective of this analysis was to answer the following questions:
